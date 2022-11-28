@@ -13,7 +13,7 @@
 .main-content .video{
     max-width: 725px;
     height: 217px;
-    background-color: rgb(75, 112, 112);
+    /* background-color: rgb(75, 112, 112); */
 }
 .main-content .video .img-video{
     width: 100%;
