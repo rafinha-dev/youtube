@@ -5,7 +5,7 @@
 
   <h1> youtube </h1>
 
-  `link para abrir o site: `
+  `link para abrir o site: ` [youtube grid](https://rafinha-dev.github.io/youtube/)
   
   exercício com grid  semelhante ao layout  do youtube , me ajudando a fixar os conceitos do grid que até então considero relativamente complexos.
 Porêm um exercício simples que ajuda a fixar esses elementos
@@ -13,6 +13,7 @@ Porêm um exercício simples que ajuda a fixar esses elementos
  
 </div>
 
+![giffsinhoresponsividade][./src/images/youtuve.gif]
 
 ## Aqui eu exercitei coisas como : 
 
